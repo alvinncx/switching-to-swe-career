@@ -100,6 +100,42 @@ You might get this to work out somehow if you have strong network and branding, 
 
 ## Is a Software Engineering career for you?
 
+Perhaps you've seen all the cool apps and websites that permate your everyday life and find yourself asking "wow, I'd love to build another cool stuff like that." Many engineers start off thinking that is how their career will pan out, but in most cases are disappointed to find out the daily work **can be quite dreary**. Here, I will be presenting to you the truth in spades.
+
+#### You have to constantly learn. And I mean CONSTANTLY.
+
+Software engineering is among the fastest changing fields. Just to give an example, just over a span of 8-10 years, one of the most popular web frameworks Ruby on Rails, went from meteoric rise to fall to obsurity. 
+
+You can imagine the people who bet on Ruby on Rails many years ago now find themselves no longer being hired, their once useful skills no longer in demand. About 5 years ago, job boards were full of jobs looking for Ruby developers.Now in 2020, there are only calls to maintain Ruby based projects. This is not an isolated case.
+
+Heard of Docker? 5 years ago if you asked anyone, they though you meant the ships. Now, Docker is in almost every software project.
+
+Heard of the cloud? 8-10 years ago if you said you ran on the cloud, people thought you meant the rain. Now in 2020? EVERYONE runs their servers on the cloud.
+
+Remember servers? That machine that you were told to never turn off the power? That is so 2018. With Amazon/Google/AliCloud now pushing for *serverless*, you don't even need a server any more. But wait, if there are no servers then how...
+
+That is how fast the software engineering field is changing. I like to say that the field of software engineering changes faster than the time to get a degree. If you are excited by changes, then this career is perfect for you. If not, you may want to think twice.
+
+#### No, just learning a language is not enough
+
+Somehow even computer science graduates think that learning Java / Python is enough to get them to start a career. Well not exactly, because software engineering is more than just programming. 
+
+Programming in your favorite language is just the tip of the ice berg. In real systems, you need to deploy systems in to servers so now you need to learn how servers work.
+
+In some companies you may use containers to deploy, so now you need to learn Docker.
+
+In all likelyhood you will be a web software engineer, so you can't escape HTML, CSS and Javascipt. So there's more to learn.
+
+You may write code that is messy, so you need to learn how to refactor your code.
+
+Your team may favor object orientated programming, so you have to learn those patterns. Or functional programming, so you have to learn again.
+
+You have to make sure the data is stored, so now you need to figure out how to use a database. Or if you need to only store it temporarily you might only need a cache. 
+
+You most certainly need to take programming tests to land a job, so you need to learn how to use data structures effectively.
+
+So is only learning a language enough? No. Thoughout your career, you most likely have to pick up new languages, techniques and technologies along the way.
+
 ## Career and salary prospects
 
 ## Community and social aspects
