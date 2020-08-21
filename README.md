@@ -138,10 +138,40 @@ So is only learning a language enough? No. Thoughout your career, you most likel
 
 ## Career and salary prospects
 
+#### Engineer sub roles
+
+##### Fullstack
+
+##### Frontend
+
+##### Backend
+
+##### DevOps
+
+
+#### Salary ranges
+
+- Tech Giants
+    - Leads
+    - Full fledged
+    - Junior
+- Consultancies
+    - Leads
+    - Full fledged
+    - Junior
+- Tech based companies
+    - Leads
+    - Full fledged
+    - Juniors
+
 ## Community and social aspects
+
+- Singapore tech scene
+- Events, groups and people
 
 ## Hear from other mid career switchers
 
 ## Where to start
-- general idea
-- segment on stories of mid career switchers
+
+- Local bootcamps
+- 
