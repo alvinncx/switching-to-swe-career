@@ -86,7 +86,7 @@ You can also work as an software engineer in an in house team. This is common in
 
 As a in-house engineer, you will likely be tasked to work on a legacy system, either squashing bugs or adding new features to an aging system.
 
-As a mid-career switcher, it can be hard working in these companies because the systems can be vast, old and hard to understand without knowing industry norms. No only must you pick up business domain knowledge, you need to learn to code on the job as well. 
+As a mid-career switcher, it can be difficult working in these companies because the systems can be vast, old and hard to understand without knowing industry norms. Not only must you pick up business domain knowledge, you need to learn to code on the job as well. 
 
 > I welcome a mid-career switcher SWE in a bank or any large local company to please submit a PR. Would love to hear your story!
 
@@ -106,7 +106,7 @@ Perhaps you've seen all the cool apps and websites that permate your everyday li
 
 Software engineering is among the fastest changing fields. Just to give an example, just over a span of 8-10 years, one of the most popular web frameworks Ruby on Rails, went from meteoric rise to fall to obsurity. 
 
-You can imagine the people who bet on Ruby on Rails many years ago now find themselves no longer being hired, their once useful skills no longer in demand. About 5 years ago, job boards were full of jobs looking for Ruby developers.Now in 2020, there are only calls to maintain Ruby based projects. This is not an isolated case.
+You can imagine the people who bet on Ruby on Rails many years ago now find themselves no longer being hired, their once useful skills no longer in demand. About 5 years ago, job boards were full of jobs looking for Ruby developers. Now in 2020, there are only calls to maintain Ruby based projects. This is not an isolated case.
 
 Heard of Docker? 5 years ago if you asked anyone, they though you meant the ships. Now, Docker is in almost every software project.
 
