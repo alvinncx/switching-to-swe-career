@@ -136,6 +136,20 @@ You most certainly need to take programming tests to land a job, so you need to 
 
 So is only learning a language enough? No. Thoughout your career, you most likely have to pick up new languages, techniques and technologies along the way.
 
+#### You need to do the dirty, tedious work too
+
+It is a common phenomenon for software projects to eventually reach a point where a step forwards is also a step backwards. 
+
+Picture this: You are tasked to untangle a huge ball of wires. You might have to disconnect them carefully, sort them out by colours and group them by function and purpose and then lay them down nicely so it doesn't happen again. Tedious? Maybe it takes you 1 day to do this.
+
+Now imagine this ball is not isolated. It is EVERYWHERE in your house, you block the corridor the entire building. Most days you can walk past them, must some days you need to do something where the ball of wires get in the way. Do you untangle them? Do you leave them be?
+
+What if after you have untangled them, someone comes along and tangle them up? Worst, what if you are the one who tangled up a bunch of wires? 
+
+**About 70% of work in most software projects is dealing with past mistakes.** And to survive the day to day tedium, you have to find joy in making code read beautifully and systems running flawlessly. Successful engineers I know are compulsively see the need to clean up code, and spend significant time doing so.
+
+And don't think for a second that *"oh I'm gonna be a frontend engineer so I only make beautiful stuff"*. Sometimes I pity the frontend engineers because frontend is a false utopia. Ask any frontend engineer about IE browser compatibility, CSS styling inheritance clashing and state management and you know it is real hell.
+
 ## Career and salary prospects
 
 #### Engineer sub roles
