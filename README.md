@@ -148,22 +148,43 @@ What if after you have untangled them, someone comes along and tangle them up? W
 
 **About 70% of work in most software projects is dealing with past mistakes.** And to survive the day to day tedium, you have to find joy in making code read beautifully and systems running flawlessly. Successful engineers I know are compulsively see the need to clean up code, and spend significant time doing so.
 
-And don't think for a second that *"oh I'm gonna be a frontend engineer so I only make beautiful stuff"*. Sometimes I pity the frontend engineers because frontend is a false utopia. Ask any frontend engineer about IE browser compatibility, CSS styling inheritance clashing and state management and you know it is real hell.
+And don't think for a second that *"oh I'm gonna be a web frontend engineer so I only make beautiful stuff"*. Sometimes I pity the frontend engineers because frontend is a false utopia. Ask any frontend engineer about IE browser compatibility, CSS styling inheritance clashing and state management and you know it is real hell.
 
-## Career and salary prospects
+## Engineer subroles
 
-#### Engineer sub roles
+#### Web / Software Engineer, App Engineer
+They go by many names, but generally these are people that write software for the internet. They build the sites that you use every day. The barrier of entry to being a web software engineer is very low these days as many of the resources are available online. Most bootcamps or online courses also provide you with sufficient information to be a generalist in the web software development. There are several specialist areas that you can move into:
 
-##### Fullstack
+- Frontend: Make things look pretty, deliver great UX
+- Backend: Build large systems, structures and patterns to power business backbone
+- Quality: Write automated tests, help prevent regressions
+- DevOps: Help your team work effectively, build high reliability systems, scale infrastructure
 
-##### Frontend
+I highly encourage you to research more in this area to get a feel of what other roles you can play as you continue in your career.
 
-##### Backend
+#### Game / Game Developer
+> Looking for contributors!
 
-##### DevOps
+#### Hardware / Embedded Engineer
+> Looking for contributors!
 
+## Career prospects
 
-#### Salary ranges
+There are no fixed path in the tech field. You can move vertially or horizontally depending on your interests and aspirations. 
+
+- Moving vertically
+    - Junior engineer
+    - Senior engineer
+    - Lead engineer
+    - Engineering manager
+    - Principal engineer
+- Moving horizontally
+    - Product manager / product owner
+    - Technical program manager
+    - Developer advocate
+    - Talent acquisition
+
+## Salary ranges
 
 - Tech Giants
     - Leads
